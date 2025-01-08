@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Kubernetes Cluster with GitOps, Istio, and Monitoring Tools 🌐
 
 This project showcases the deployment and management of a **microservices-based application** on **AWS EKS (Elastic Kubernetes Service)**. It integrates **GitOps** with **ArgoCD**, **Istio** as a service mesh, and comprehensive monitoring tools like **Prometheus**, **Grafana**, and **Kiali**.  
@@ -103,4 +102,3 @@ This project integrates **Kubernetes**, **GitOps**, **service mesh**, and monito
 ---  
 
 ### 💡 Explore a seamless DevOps workflow for scalable, high-performance applications! 🚀
-```
